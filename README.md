@@ -19,9 +19,9 @@ An implementation of the famous **3n + 1 problem**.
 Make sure you have Python installed. You can run any of the scripts like this:
 
 ```bash
-# Run the Collatz sequence analyzer
-python collatz_sequence.py
-
 # Run the Number Triangle generator
 python number_triangle.py
+
+# Run the Collatz sequence analyzer
+python collatz_sequence.py
 ```
